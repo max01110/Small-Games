@@ -11,7 +11,7 @@ Should be available to play here: https://crystalcode.tk/myWork.html
   - Recursvie
 - It is impossible to win against this algorithm
   - The computer will always, either, lose or tie
--More info on the algorithm: https://en.wikipedia.org/wiki/Minimax
+- More info on the algorithm: https://en.wikipedia.org/wiki/Minimax
 
 ## Coded With
 - p5
