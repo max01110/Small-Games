@@ -3,7 +3,7 @@ Should be available to play at https://crystalcode.tk/
 
 ## Description
 - The well-known Pong game
-- Coded Object Oriented
+- Fully Object Oriented
 
 ## Coded With
 - P5
