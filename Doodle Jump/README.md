@@ -14,6 +14,7 @@
 - [ ] Add sprites
 - [ ] addd springs (big jumps)
 - [ ] Add moving platform
+- [ ] Add fake platforms
 - [ ] Add monters
   - [ ] ability to shoot
   - [ ] give killed by monsters (collision)
