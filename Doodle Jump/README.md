@@ -10,6 +10,7 @@
 ## To-Do
 - [ ] Finish endgame/restart function
   - [ ] highest score
+- [ ] Add to website (crystalcode.tk)
 - [ ] Add sprites
 - [ ] addd springs (big jumps)
 - [ ] Add moving platform
