@@ -1,6 +1,6 @@
 # Doodle Jump
 
-##Description
+## Description
 - Re-creation of the Doodle Jump game
 - Fully object-oriented
 ## Coded With
